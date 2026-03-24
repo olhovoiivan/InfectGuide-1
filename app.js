@@ -1,10 +1,10 @@
 const diseases=[
 
-{name:"Грип",type:"virus",image: "/image/grip.png",symptoms:["температура","кашель","біль у горлі"],info:"Гостра вірусна інфекція дихальних шляхів."},
+{name:"Грип",type:"virus",image: "image/grip.png",symptoms:["температура","кашель","біль у горлі"],info:"Гостра вірусна інфекція дихальних шляхів."},
 
-{name:"COVID-19",type:"virus",image: "/image/covid.png",symptoms:["температура","кашель","втрата нюху"],info:"Коронавірусна інфекція SARS-CoV-2."},
+{name:"COVID-19",type:"virus",image: "image/covid.png",symptoms:["температура","кашель","втрата нюху"],info:"Коронавірусна інфекція SARS-CoV-2."},
 
-{name:"Туберкульоз",type:"bacteria", image: "/image/tbc.png",symptoms:["кашель","слабкість","схуднення"],info:"Хронічна бактеріальна інфекція легень."},
+{name:"Туберкульоз",type:"bacteria", image: "image/tbc.png",symptoms:["кашель","слабкість","схуднення"],info:"Хронічна бактеріальна інфекція легень."},
 
 {name:"Черевний тиф",type:"bacteria",symptoms:["температура","біль у животі","слабкість"],info:"Системна інфекція Salmonella Typhi."},
 
